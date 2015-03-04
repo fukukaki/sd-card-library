@@ -27,7 +27,7 @@
 #		define BPS_115200 	115200
 #	endif
 
-//#define SPI_SPEED_UP						/* Enable read/write speed up option */
+#define SPI_SPEED_UP						/* Enable read/write speed up option */
 
 
 //define SPI_DMA		/* Do not enable this line, no checked, experiment, dangerous */
