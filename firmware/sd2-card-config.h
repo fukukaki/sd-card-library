@@ -12,8 +12,8 @@
 
 /* High speed */
 //#	define SPI_HIGH_CLOCK	SPI_4_5MHZ		/* = SPI_FULL_SPEED */
-#	define SPI_HIGH_CLOCK	SPI_9MHZ		/* = SPI_FULL_SPEED */
-//#	define SPI_HIGH_CLOCK	SPI_18MHZ		/* = SPI_FULL_SPEED */
+//#	define SPI_HIGH_CLOCK	SPI_9MHZ		/* = SPI_FULL_SPEED */
+#	define SPI_HIGH_CLOCK	SPI_18MHZ		/* = SPI_FULL_SPEED */
 
 /* Select output device for print() function */
 #	define SERIAL_DEVICE	0				/* 0:SerialUSB  1=: Serial UART device */
